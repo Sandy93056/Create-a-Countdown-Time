@@ -14,3 +14,5 @@ def countdown(time_sec):
     print("stop")
     
 countdown(10)
+
+# can you give time according to you
